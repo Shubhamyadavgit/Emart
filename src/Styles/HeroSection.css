@@ -5,6 +5,8 @@
     max-width: 1280px;
     margin-left: 180px;
     justify-content: space-between;
+    height: auto;
+    margin-bottom: -300px;
 }
 .left-section{
     width: 50%;
